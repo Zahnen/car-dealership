@@ -1,0 +1,11 @@
+C:\Users\Zahnen\Desktop\car-dealership\bin\Debug\netcoreapp2.2\Dealership.deps.json
+C:\Users\Zahnen\Desktop\car-dealership\bin\Debug\netcoreapp2.2\Dealership.runtimeconfig.json
+C:\Users\Zahnen\Desktop\car-dealership\bin\Debug\netcoreapp2.2\Dealership.runtimeconfig.dev.json
+C:\Users\Zahnen\Desktop\car-dealership\bin\Debug\netcoreapp2.2\Dealership.dll
+C:\Users\Zahnen\Desktop\car-dealership\bin\Debug\netcoreapp2.2\Dealership.pdb
+C:\Users\Zahnen\Desktop\car-dealership\obj\Debug\netcoreapp2.2\Dealership.csprojAssemblyReference.cache
+C:\Users\Zahnen\Desktop\car-dealership\obj\Debug\netcoreapp2.2\Dealership.csproj.CoreCompileInputs.cache
+C:\Users\Zahnen\Desktop\car-dealership\obj\Debug\netcoreapp2.2\Dealership.AssemblyInfoInputs.cache
+C:\Users\Zahnen\Desktop\car-dealership\obj\Debug\netcoreapp2.2\Dealership.AssemblyInfo.cs
+C:\Users\Zahnen\Desktop\car-dealership\obj\Debug\netcoreapp2.2\Dealership.dll
+C:\Users\Zahnen\Desktop\car-dealership\obj\Debug\netcoreapp2.2\Dealership.pdb
